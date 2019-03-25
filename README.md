@@ -1,6 +1,6 @@
 # MyCertificates
 
-My certificates I've obtained from online courses.
+The certificates I've obtained from online courses.
 
 1. [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera.
 2. [Data Scientist path](https://www.dataquest.io/path/data-scientist) on Dataquest.
